@@ -1,0 +1,87 @@
+.userpass{
+    width:50%;
+}
+
+.name{
+    max-width: 26%;
+    left : 25%
+}
+
+.pass{
+    max-width: 26%;
+    left:25%
+}
+
+.mail{
+    max-width: 52%;
+    left: 25%;
+}
+
+.createname{
+    max-width: 25%;
+
+}
+
+.createpass{
+    max-width: 25%;
+
+}
+
+.createmail{
+    max-width: 50%;
+
+}
+
+.signin{
+    margin-top:2%;
+    background: #3e6ab1;
+    border: #3e6ab1;
+
+}
+
+.logout:hover{
+    color:white;
+}
+
+.logout{
+    color:white;
+}
+
+.logoutbutton{
+    margin-left: ;
+    position: absolute;
+    top: 95%;
+}
+
+.signin:hover{
+    text-decoration: none;
+    color:white;
+    background: #3e6ab1;
+    border: #3e6ab1;
+}
+
+
+.success{
+    color: limegreen;
+    font-size: 20px;
+}
+
+.error{
+    color: red;
+    font-size: 20px;
+}
+
+
+.already {
+margin-top: 5px;
+}
+
+.input-group {
+
+    width: 120px;
+    float: left;
+}
+
+.formform{
+    display:block;
+}
