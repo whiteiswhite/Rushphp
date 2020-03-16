@@ -1,7 +1,7 @@
 .userpass{
     width:50%;
 }
-
+/* Disposition du champs Username */
 .name{
     max-width: 26%;
     left : 25%
@@ -16,20 +16,20 @@
     max-width: 52%;
     left: 25%;
 }
-
+/* Disposition du champs Create Username */
 .createname{
-    max-width: 25%;
-
+    max-width: 26%;
+    left : 42%
 }
 
 .createpass{
-    max-width: 25%;
-
+    max-width: 26%;
+    left:42%
 }
 
 .createmail{
-    max-width: 50%;
-
+    max-width: 52%;
+    left: 42%;
 }
 
 .signin{
@@ -48,7 +48,7 @@
 }
 
 .logoutbutton{
-    margin-left: ;
+    margin-left: 48%;
     position: absolute;
     top: 95%;
 }
@@ -71,7 +71,7 @@
     font-size: 20px;
 }
 
-
+/* Disposition du lien "already registered?" */
 .already {
 margin-top: 5px;
 }
@@ -81,7 +81,7 @@ margin-top: 5px;
     width: 120px;
     float: left;
 }
-
+/* probablement inutile */
 .formform{
     display:block;
 }
